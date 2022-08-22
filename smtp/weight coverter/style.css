@@ -1,0 +1,19 @@
+body {
+	background:linear-gradient(90deg, rgba(2,0,36,1) 0%, #f7ff00 0%, #db36a4 76%);
+	font-family: 'Spectral';
+	margin-top: 30px;
+	min-height: 300%;
+}
+
+.card {
+	border-radius: 0px;
+}
+
+.card-block {
+	width: 100%;
+}
+
+input {
+	font-family: 'Spectral';
+	font-size: 100%;
+}
