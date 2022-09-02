@@ -1,0 +1,60 @@
+#box{
+    margin-top: 30px;
+    padding-left: 20px;
+    padding-top: 10px;
+    background: url('https://images.pexels.com/photos/8715136/pexels-photo-8715136.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1') no-repeat center center;
+    background-size: cover;
+    border-radius: 30px;
+    height: 340px;
+    width:700px;
+    display: none;
+}
+
+body{
+    background-image: url('https://static.vecteezy.com/system/resources/previews/003/366/088/large_2x/old-paper-on-the-wood-background-ancient-scroll-free-photo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#box.show{
+    display:block ;
+}
+
+#click{
+    position: relative;
+    top:8rem;
+    font-family:'sans-serif';
+}
+
+body{
+    position: relative;
+    object-position: center;
+    top:7rem;
+   
+}
+
+.form-group{
+    margin-top: 24px;
+}
+
+.form-group label{
+    height: 30px;
+}
+
+#submission{
+    position: relative;
+    top:10px;
+    left: 45%;
+}
+
+.one h3 span{
+    position: relative;
+    left:14rem;
+    transform: scale(1.03);
+    transition: all 1s ease;
+}
+
+.one h3 span i{
+    color: red;
+}

@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding:0;
+}
+body{
+    background-image:url('./pika.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 165vh;
+    color: white;
+}
+.hello{
+    background-color:  #a4242c;
+}
+h1{
+    width: 1000;
+}
